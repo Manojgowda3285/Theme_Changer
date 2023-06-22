@@ -1,0 +1,31 @@
+html,
+body {
+    height: 100%;
+    width: 100;
+    text-align: center;
+}
+
+* {
+    margin: 0;
+}
+
+nav {
+    display: flex;
+    background: none;
+    margin: 2rem;
+
+
+}
+
+nav button {
+    cursor: pointer;
+    border-style: solid;
+    margin: auto;
+    border-radius: 20px;
+    padding: 1%;
+
+    text-shadow: 2rem;
+    background-color:rgba(236, 240, 240, 0.929);
+}
+
+
